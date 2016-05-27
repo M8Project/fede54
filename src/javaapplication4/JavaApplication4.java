@@ -7,7 +7,7 @@ package javaapplication4;
 
 /**
  *
- * @author victoria
+ * @author empat
  */
 public class JavaApplication4 {
 
